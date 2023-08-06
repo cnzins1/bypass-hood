@@ -1,0 +1,2 @@
+game.ReplicatedStorage.MainEvent:FireServer("OneMoreTime")
+wait(2)
